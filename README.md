@@ -44,7 +44,7 @@ A Tableau dashboard based on the cleaned dataset will be added here soon.
 
 listings.csv # Raw input data  
 listings_cleaned.csv # Cleaned dataset output  
-airbnb_etl_pipeline.ipynb # Jupyter notebook with the full ETL pipeline  
+ETL-Pipeline-for-Airbnb-Listings-Tableau-Dashboard.ipynb # Jupyter notebook with the full ETL pipeline  
 README.md # Project documentation
 
 
