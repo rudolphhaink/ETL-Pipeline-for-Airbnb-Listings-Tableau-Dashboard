@@ -1,7 +1,7 @@
 # 🏡 Airbnb Listings ETL Pipeline
 
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline for Airbnb listing data.  
-It is designed as part of my Data Analyst portfolio to showcase practical data wrangling and preparation skills.
+It is designed as part of my Data Analyst portfolio to showcase practical data wrangling and preparation skills.  
 [Datasource](https://insideairbnb.com/get-the-data/)
 
 ---
