@@ -42,10 +42,10 @@ A Tableau dashboard based on the cleaned dataset will be added here soon.
 
 ## 📁 Project Structure
 
-├── listings.csv # Raw input data (not included in repo)
-├── listings_cleaned.csv # Cleaned dataset output
-├── airbnb_etl_pipeline.ipynb # Jupyter notebook with the full ETL pipeline
-└── README.md # Project documentation
+listings.csv # Raw input data  
+listings_cleaned.csv # Cleaned dataset output  
+airbnb_etl_pipeline.ipynb # Jupyter notebook with the full ETL pipeline  
+README.md # Project documentation
 
 
 ---
