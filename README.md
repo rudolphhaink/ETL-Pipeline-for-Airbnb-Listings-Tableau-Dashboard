@@ -36,7 +36,8 @@ The ETL pipeline consists of the following steps:
 
 ## 📊 Tableau Dashboard
 
-A Tableau dashboard based on the cleaned dataset will be added here soon.
+A Tableau dashboard based on the cleaned dataset.
+[Dashboard](https://public.tableau.com/app/profile/rudolph.haink/viz/AirBnBListings_17512734486760/Dashboard1)
 
 ---
 
