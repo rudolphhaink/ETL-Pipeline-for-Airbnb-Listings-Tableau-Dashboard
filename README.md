@@ -60,7 +60,7 @@ README.md # Project documentation
 
 ---
 
-## 📬 Contact
+## 👤 Author
 
-**Author:** Rudolph Haink  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rudolph-haink-a5454564/) or GitHub if you'd like to connect!
+Rudolph Haink  
+[LinkedIn](https://www.linkedin.com/in/rudolph-haink-a5454564/)
